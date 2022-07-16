@@ -1,0 +1,2 @@
+# scalaFundamental
+Personal Scala Learning
